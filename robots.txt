@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ITteam-IWP.github.io/reference-db2lb4/sitemap.xml
